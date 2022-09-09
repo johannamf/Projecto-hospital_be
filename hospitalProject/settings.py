@@ -73,6 +73,8 @@ REST_FRAMEWORK = {
     )
 }
 
+AUTH_USER_MODEL = 'appHospital.User'
+
 ROOT_URLCONF = 'hospitalProject.urls'
 
 TEMPLATES = [
