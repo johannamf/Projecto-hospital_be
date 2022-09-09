@@ -1,3 +1,3 @@
-Este es el proyecto hospital_app
+Este es el proyecto hospitalProject
 Usando Django y postgresql 
 Desarrollador Johanna Mora Fajardo
